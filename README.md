@@ -69,6 +69,13 @@
 
 <hr/> 
 
+<!--START_SECTION:waka-->
+
+
+<!--END_SECTION:waka-->
+
+<hr/>
+
 <section align="center">
   <h3>🐍 My Contributions 🐍</h3>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Miguelzvd/Miguelzvd/output/github-contribution-grid-snake.svg" />
