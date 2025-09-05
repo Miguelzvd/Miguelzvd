@@ -56,10 +56,10 @@
   <h3>🔥 GitHub Stats</h3>
   <br>
   <section align="center">
-    <img height=180 src="https://streak-stats.demolab.com/?user=Miguelzvd&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-    <img height=180 src="https://github-readme-stats.vercel.app/api?username=Miguelzvd&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+    <img height=150 src="https://streak-stats.demolab.com/?user=Miguelzvd&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+    <img height=150 src="https://github-readme-stats.vercel.app/api?username=Miguelzvd&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
     <br/>
-    <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miguelzvd&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miguelzvd&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
       
   </section>
   
