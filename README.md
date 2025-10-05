@@ -70,7 +70,7 @@
 <hr/> 
  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-96%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-98%20hrs%2030%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -100,7 +100,7 @@ Mac                      2 hrs 37 mins       ███░░░░░░░░�
 ```
 
 
- Last Updated on 04/10/2025 21:14:00 UTC
+ Last Updated on 05/10/2025 21:14:15 UTC
 <!--END_SECTION:waka-->
 
 <hr/>
