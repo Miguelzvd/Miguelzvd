@@ -87,26 +87,8 @@
 <!--![Miguel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Miguelzvd&show_icons=true&theme=radical)-->
  
 <!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
 
-```text
-🕑︎ Time Zone: America/Fortaleza
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-
- Last Updated on 02/01/2026 21:15:46 UTC
+ Last Updated on 03/01/2026 21:17:43 UTC
 <!--END_SECTION:waka-->
 
 <br/> 
