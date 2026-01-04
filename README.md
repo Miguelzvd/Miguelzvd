@@ -87,8 +87,28 @@
 <!--![Miguel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Miguelzvd&show_icons=true&theme=radical)-->
  
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-289%20hrs%2046%20mins-blue)
 
- Last Updated on 03/01/2026 21:17:43 UTC
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Fortaleza
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+
+ Last Updated on 04/01/2026 21:18:14 UTC
 <!--END_SECTION:waka-->
 
 <br/> 
