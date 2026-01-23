@@ -7,23 +7,47 @@
 <br/> 
 
 <section>
-  <h2>🌐 About Me</h3>
+  <h2>🌐 About Me</h2>
 
   <p align="left">
-   I'm a <strong>Computer Engineering graduate</strong> with a solid background in 
-   <strong>web development</strong>. Currently, I'm a research fellow at FUNCITERN, 
-   where I lead projects for SETHAS, focusing on web systems for social programs 
-   that support low-income communities.  
+    I'm a <strong>Software Engineer</strong> with a degree in Computer Engineering and
+    a strong background in <strong>web development</strong>. Currently, I work as a
+    Software Engineer at FUNCITERN, where I lead and develop web systems for SETHAS,
+    delivering digital solutions that support large-scale social programs for
+    low-income communities.
+  </p>
 
-   I have experience in creating intuitive, scalable applications and am always 
-   looking for opportunities to expand my knowledge and contribute to impactful 
-   digital solutions.  
+  <p align="left">
+    I have experience designing and building scalable, accessible, and
+    production-ready applications, coordinating front-end teams, and contributing
+    to system architecture, documentation, and technical decision-making.
+  </p>
 
-   Check out my latest project, 
-   <a href="https://jovempotiguar.sine.rn.gov.br/" target="_blank"><strong>Jovem Potiguar</strong></a>, 
-   which aims to empower low-income individuals through professional training!
+  <p align="left">
+    <strong>Public projects with accessible links:</strong>
+  </p>
+
+
+  <p align="left">
+      <strong>Jovem Potiguar</strong> – State-level platform for professional training
+      pre-enrollment, used by <strong>over 5,000 users</strong> across Rio Grande do Norte.<br />
+      🔗
+      <a href="https://jovempotiguar.sine.rn.gov.br/" target="_blank">
+        https://jovempotiguar.sine.rn.gov.br/
+      </a>
+  </p>
+
+
+  <p align="left">
+      <strong>Programa do Restaurante Popular (PRP)</strong> – Digital meal ticket and
+      management system serving over 230 units in more than 160 municipalities.<br />
+      🔗
+      <a href="https://prp.sethas.rn.gov.br/" target="_blank">
+        https://prp.sethas.rn.gov.br/
+      </a>
   </p>
 </section>
+
 
 <br/> 
 <br/> 
