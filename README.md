@@ -12,9 +12,8 @@
   <p align="left">
     I'm a <strong>Software Engineer</strong> with a degree in Computer Engineering and
     a strong background in <strong>web development</strong>. Currently, I work as a
-    Software Engineer at FUNCITERN, where I lead and develop web systems for SETHAS,
-    delivering digital solutions that support large-scale social programs for
-    low-income communities.
+    Software Engineer at UNIMED, where I maintain and evolve web, mobile, and backend/API 
+    applications for healthcare systems.
   </p>
 
   <p align="left">
@@ -22,11 +21,16 @@
     production-ready applications, coordinating front-end teams, and contributing
     to system architecture, documentation, and technical decision-making.
   </p>
+</section>
+
+<br/>
+
+<section>
+  <h2>📂 Previous Work</h2>
 
   <p align="left">
-    <strong>Public projects with accessible links:</strong>
+    Public projects from my time at SETHAS (Rio Grande do Norte State Secretariat):
   </p>
-
 
   <p align="left">
       <strong>Jovem Potiguar</strong> – State-level platform for professional training
@@ -36,7 +40,6 @@
         https://jovempotiguar.sine.rn.gov.br/
       </a>
   </p>
-
 
   <p align="left">
       <strong>Programa do Restaurante Popular (PRP)</strong> – Digital meal ticket and
@@ -48,12 +51,11 @@
   </p>
 </section>
 
-
 <br/> 
 <br/> 
 
 <section>
-  <h2>🚀 Stack</h3>
+  <h2>🚀 Stack</h2>
   <div align="center">
       <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
       <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
@@ -63,9 +65,11 @@
       <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
       <img alt="Node" src="https://img.shields.io/badge/Node.js-5FA04E?logo=nodedotjs&logoColor=fff&style=for-the-badge"/>
       <img alt="Drizzle" src="https://img.shields.io/badge/Drizzle-C5F74F?logo=drizzle&logoColor=000&style=for-the-badge"/>
+      <img alt="TypeORM" src="https://img.shields.io/badge/TypeORM-FE0803?style=for-the-badge&logo=typeorm&logoColor=white"/>
       <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
       <img alt="Django" src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=fff&style=for-the-badge"/>
       <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=for-the-badge"/>
+      <img alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
       <img alt="Supabase" src="https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=fff&style=for-the-badge"/>
       <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=for-the-badge"/>
       <img alt="n8n" src="https://img.shields.io/badge/n8n-EA4B71?logo=n8n&logoColor=fff&style=for-the-badge"/>
@@ -75,7 +79,6 @@
 
 <br/> 
 <br/>
-
 <section>
   <h2>📲 Connect With Me</h3>
 
@@ -129,8 +132,6 @@
 <section>
 
 <h2>💡 Fun Facts</h3>
-
- 🌱 Currently learning **AI integrations with React**
  
  💼 Interested in open-source collaborations
  
