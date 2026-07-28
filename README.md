@@ -114,8 +114,6 @@
 <!--![Miguel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Miguelzvd&show_icons=true&theme=radical)-->
  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-286%20hrs%2014%20mins-blue?style=flat)
-
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -141,7 +139,7 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 27/07/2026 21:25:40 UTC
+ Last Updated on 28/07/2026 21:26:24 UTC
 <!--END_SECTION:waka-->
 
 <br/> 
